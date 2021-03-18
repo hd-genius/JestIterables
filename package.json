@@ -1,0 +1,21 @@
+{
+  "name": "jest-iterables",
+  "version": "0.1.0",
+  "description": "iterable matcher extensions for jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "iterables"
+  ],
+  "author": "Roy Stewart",
+  "license": "MIT",
+  "dependencies": {
+    "collection-ops": "^0.5.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
